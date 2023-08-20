@@ -1,0 +1,10 @@
+# Fonts
+font_family      FiraCode Nerd Font
+font_size 13.0
+
+# Window
+remember_window_size  yes
+initial_window_width  640
+initial_window_height 400
+window_padding_width 8
+placement_strategy center
