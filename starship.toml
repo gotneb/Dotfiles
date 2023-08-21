@@ -1,5 +1,5 @@
 format = """
-[  ](bg:#FFFFFF fg:#000000)\
+[┌](#ECCE8E) [  ](bg:#FFFFFF fg:#000000)\
 [](bg:#769ff0 fg:#FFFFFF)\
 $directory\
 [](fg:#769ff0 bg:#394260)\
@@ -19,8 +19,8 @@ $line_break\
 $character"""
 
 [character]
-success_symbol = '[󱞩 󰮯](#ECCE8E)'
-error_symbol = '[󱞩 ](#EFA9AE)'
+success_symbol = '[└ 󰮯](#ECCE8E)'
+error_symbol = '[└ ](#EFA9AE)'
 
 [fill]
 symbol = " "
